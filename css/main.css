@@ -28,7 +28,7 @@ h1 {
 
 }
 
-p {
+p.tag-line {
   color: #87CEEB;
   margin-top: -20px;
 }
@@ -50,8 +50,12 @@ button:hover {
   }
 
 /* Footer */
-h6 {
+.foot-tagline {
  color: black;
  margin-bottom: 20px;
 
+}
+
+.custom-footer {
+  background-color: #48D1CC;
 }
