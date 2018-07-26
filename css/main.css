@@ -47,9 +47,10 @@ button:hover {
 .foot-tagline {
  color: black;
  margin-bottom: 20px;
-
 }
 
 .custom-footer {
   background-color: #48D1CC;
+  width: 500px;
+
 }
